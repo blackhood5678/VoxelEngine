@@ -1,4 +1,4 @@
-package org.Main.core;
+package core;
 
 import org.joml.Matrix4f;
 import org.lwjgl.glfw.GLFW;
